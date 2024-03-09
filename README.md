@@ -1,4 +1,4 @@
-# </> 💻 TechMo-web Responsive Webpage
+# </> 💻 TechMo-web Bootstrap5 Webpage
 This project is a Bootstrap 5 webpage with the name of TechMo-web, It is simple webpage, complete responsive with transitions on every section.
 
 # 📊 Table of Contents
