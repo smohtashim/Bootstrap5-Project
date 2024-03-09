@@ -1,44 +1,41 @@
-# </> 💻 Digital Marketing Agency Website
-This project is a Bootstrap 5 website for a digital marketing agency. The website is designed to showcase the services provided by the agency, highlight their work, introduce their team, and display their latest blog posts.
+# </> 💻 TechMo-web Responsive Webpage
+This project is a Bootstrap 5 webpage with the name of TechMo-web, It is simple webpage, complete responsive with transitions on every section.
 
 # 📊 Table of Contents
 • Features
 • Technologies Used
-• Sections
+• About Us
 • Our Services
-• Our Work
 • Our Team
-• Blog
+• Feel free to connect
 
 # 🎯 Features
 🔹 Responsive design using Bootstrap 5 framework.
-🔹 Clearly defined sections to provide information about the agency's services, work, team, and blog.
+🔹 Sections with colorful and transition effects to make the webpage more attractive.
+🔹 Clearly defined sections to provide information about the services, team, and about us.
 🔹 Easy navigation for users to explore different sections of the website.
-🔹 Modern and professional design to attract potential clients.
+🔹 Simple and Easy design to attract potential clients.
 
 # 🚀 Technologies Used
 ✔️ HTML5
-✔️ CSS3
+✔️ CSS
 ✔️ Bootstrap 5
-✔️ Javascript
 
 # 🔁 Our Services
-In this section, we provide details about the services offered by our agency. Our services include:
+In this section, we provide details about the services offered, Our services include:
 
-📌 Digital Marketing
-📌 Logo Designing
-📌 Brand Identity
-📌 Videography
-📌 Business Consulting
-📌 Ethical Hacking
+📌 Web Development
+📌 App Development
+📌 Graphic Design
+📌 Data Analyst
+📌 Ux Design
+📌 Game Development
 
-# 📝 Our Work
-Here, we showcase some of our notable projects and work accomplishments. Visitors can get a glimpse of our previous work to understand our capabilities and expertise.
 
 # 👥 Our Team
-Meet the talented individuals behind our agency. Our team comprises skilled professionals with diverse backgrounds and expertise in various fields such as marketing, design, consulting, and cybersecurity.
+Meet the talented individuals of our team. 
 
-# 📰 Blog
-Stay updated with our latest blog posts where we share insights, tips, and news related to digital marketing, design, and technology trends. Our blog section keeps visitors informed and engaged with valuable content.
+# 📰 Feel free to Connect with us
+In this section i created a contact us filling form with the required fields Email,Password,Address,State,zip etc to connect with us.  
 
-#Html5 #Bootstrap5 #Responsive-Webpages #Css #Javascript #Projects
+#Html5 #Bootstrap5 #Responsive-Webpages #Css #Projects
